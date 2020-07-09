@@ -1,0 +1,154 @@
+
+header{
+  background-color: #F0FFF0;
+  margin: 0px 0px;
+  border: 1px solid #F0FFF0 ;
+  padding-bottom: 50px;
+
+}
+
+.nav-element{
+  color: black;
+  font-weight: 700px;
+  padding: 10px 10px ;
+  /* border: 1px solid red ; */
+}
+.sign-list{
+  width: 120px;
+  /* border: 1px solid red ; */
+}
+
+.sign-btn{
+  color: white;
+  background-color: #21B573;
+  border-radius: 30px;
+  padding: 10px 25px;
+  border: none;
+}
+.items-dropdown{
+  border: none;
+  background-color: #F0FFF0;
+}
+
+nav img{
+  width: 200px;
+}
+.container{
+  margin-top: 15px;
+}
+.home-details{
+  margin-top: 100px;
+}
+.home-details img{
+  width: 100%;
+  position: relative;
+}
+.nav-a{
+  color: black;
+  padding: 10px 30px;
+  /* background-color: red; */
+}
+
+.get-btn{
+  padding: 10px 30px;
+  background-color: #21B573;
+  color: white;
+  border-radius: 30px;
+  border: none;
+  margin: 10px 20px;
+}
+h6{
+  color: red;
+}
+b{
+  font-weight: 800;
+  font-size: 50px;
+}
+strong{
+  color: #21B573;
+}
+
+
+section{
+  margin: 50px 0px;
+    /* border: 1px solid red ; */
+
+}
+
+.icon-img{
+  width: 40%;
+  /* border: 1px solid red ; */
+}
+.book-img{
+  width: 33%;
+  /* border: 1px solid red ; */
+}
+.card-book-list{
+  margin-top: 20px;
+  text-align: center;
+  padding: 40px 10px;
+  border: none;
+  
+}
+.card-book-list:hover{
+  border-radius: 10px;
+  box-shadow: 5px 5px 20px lightgrey;
+
+}
+
+
+.course h1{
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.card-courses{
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+  padding: 20px 20px;
+}
+.card-courses:hover{
+  box-shadow: 10px 10px 20px lightgray;
+}
+.course-img{
+  width: 100%;
+  height: auto;
+}
+.card-footer{
+  padding: 0rem 0.25rem;
+  background-color: white;
+  border-top: none;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  /* border: 1px solid red ; */
+
+}
+.card-footer img{
+  width: 15%;
+}
+
+.people{
+  text-align: end;
+}
+
+.testimonial{
+  height: auto;
+  margin: 0px 40px;
+}
+.half-width1{
+  padding: 20px 20px;
+}
+
+footer{
+  height: auto;
+  background-color: #282531;
+  border: 1px solid black ;
+
+}
+.footer{
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+
